@@ -25,8 +25,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "IASDKCore",
-            url: "https://cdn2.inner-active.mobi/fmp-sdk/files/DTExchangeSDK-iOS-SPM-8.5.1.zip",
-            checksum: "ae4ba0e3153133388824fd9b87d331f39972f162e14d1937caf22e6fff9d4d00" 
+            url: "https://cdn2.inner-active.mobi/fmp-sdk/files/DTExchangeSDK-iOS-SPM-8.5.2.zip",
+            checksum: "ba717ee1cf2b795b47a557d30060947de0f7773bce3f464f66db360805af5cce" 
         ),
     ]
 )
